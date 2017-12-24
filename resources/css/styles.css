@@ -29,3 +29,17 @@ h1, h2, h3 {
 .middle {
   text-align: center;
 }
+
+.middle p {
+  font-size: 14px;
+}
+
+.mid-small h3 {
+font-size: 23px;
+}
+
+.footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
